@@ -1,5 +1,5 @@
 {
-  "parser": "babel-eslint",
+  
   "env": {
     "browser": true,
   },
@@ -17,5 +17,5 @@
         "functions": "ignore",
     }],
   },
-  "extends": ["eslint:recommended"]
+  
 }

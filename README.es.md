@@ -61,7 +61,7 @@ console.log(window.variables);
     linkedin: null,
     instagram: null,
 
-    name: null,
+    name: null,https://github.com/breatheco-de/exercise-conditional-profile-card.git
     lastName: null,
     role: null,
     country: null,
